@@ -1,0 +1,125 @@
+[
+    {
+        "id": "sunmi-v2-pro",
+        "name": "Sunmi V2 PRO Portable",
+        "category": "Printer Kasir",
+        "price": 200000,
+        "originalPrice": 3500000,
+        "description": "PRINTER KASIR\/PPOB THERMAL 58MM IWARE C-58XS RPP02N ANDROID support MOKAPOS, GOBIZ, GRAB FOOD MERCHANT cocok digunakan untuk print kertas receipt \/ struk pembayaran dan dapat digunakan juga untuk mencetak secara langsung dari smartphone Anda.",
+        "image": "assets\/products\/sunmi-v2-pro.jpg",
+        "images": [
+            "assets\/products\/sunmi-v2-pro.jpg"
+        ],
+        "tags": [
+            "MokaPOS",
+            "Android",
+            "Portable"
+        ],
+        "isReadyStock": true,
+        "specs": []
+    },
+    {
+        "id": "epson-tm-t82-iii",
+        "name": "Epson TM-T82 III Thermal",
+        "category": "Printer Kasir",
+        "price": 2150000,
+        "description": "Printer kasir legendaris dengan daya tahan tinggi dan auto-cutter. Standar industri retail dan resto.",
+        "image": "assets\/products\/epson-tm-t82-iii.jpg",
+        "tags": [
+            "Windows",
+            "USB+Serial",
+            "Heavy Duty"
+        ],
+        "isBestSeller": true,
+        "specs": {
+            "Printing Speed": "250mm\/s",
+            "Paper Width": "80mm",
+            "Interface": "USB + Serial \/ LAN",
+            "Reliability": "60 million lines",
+            "Cutter": "Auto-cutter"
+        }
+    },
+    {
+        "id": "jaya-maju-aio",
+        "name": "JAYA MAJU All-in-One POS V1",
+        "category": "Komputer Kasir",
+        "price": 6750000,
+        "description": "Paket lengkap komputer kasir layar sentuh 15 inch premium. Desain modern, hemat ruang, dan performa stabil.",
+        "image": "assets\/products\/jaya-maju-aio.jpg",
+        "tags": [
+            "Windows 10",
+            "Touchscreen",
+            "Premium"
+        ],
+        "specs": {
+            "Processor": "Intel Celeron J4125",
+            "Memory": "4GB DDR4",
+            "Storage": "128GB SSD",
+            "Display": "15\" Capacitive Touch",
+            "Ports": "6x USB, 1x LAN, 1x VGA"
+        }
+    },
+    {
+        "id": "honeywell-hh490",
+        "name": "Honeywell HH490 2D Scanner",
+        "category": "Barcode Scanner",
+        "price": 1450000,
+        "description": "Scanner barcode 2D (QR Code) berperforma tinggi untuk retail modern. Cepat baca barcode rusak atau di layar HP.",
+        "image": "assets\/products\/honeywell-hh490.jpg",
+        "tags": [
+            "2D\/QR",
+            "USB",
+            "Industrial"
+        ],
+        "isReadyStock": true,
+        "specs": {
+            "Scan Type": "Area Image (2D)",
+            "Interface": "USB",
+            "Scan Speed": "60 fps",
+            "Durability": "IP40 Rating",
+            "Warranty": "1 Year"
+        }
+    },
+    {
+        "id": "star-mcp31",
+        "name": "Star Micronics MCP31 Cloud",
+        "category": "Printer Kasir",
+        "price": 4450000,
+        "description": "Cloud-Ready Receipt Printer dengan desain elegan dan konektivitas lengkap untuk iPad\/iPhone POS.",
+        "image": "assets\/products\/star-mcp31.jpg",
+        "tags": [
+            "Enterprise",
+            "CloudPRNT",
+            "iOS Ready"
+        ],
+        "specs": {
+            "Printing Speed": "250mm\/s",
+            "Interface": "USB, LAN, Bluetooth",
+            "Cloud Support": "Yes (CloudPRNT)",
+            "OS Support": "iOS, Android, Windows",
+            "Special": "USB Charge for iPad"
+        }
+    },
+    {
+        "id": "paket-umkm-lite",
+        "name": "Paket UMKM Lite (Android)",
+        "category": "Paket Usaha",
+        "price": 4200000,
+        "originalPrice": 4800000,
+        "description": "Paket lengkap untuk pemula. Tablet 10\", Stand Holder, dan Printer Bluetooth 58mm.",
+        "image": "assets\/products\/paket-umkm-lite.jpg",
+        "tags": [
+            "Bundle",
+            "UMKM",
+            "Android"
+        ],
+        "isBestSeller": true,
+        "specs": {
+            "Hardware": "Tablet 10\" + BT Printer",
+            "Software": "Free POS Basic 1yr",
+            "Installation": "Free Remote Setup",
+            "Training": "Video Tutorial Incl.",
+            "Support": "Priority WA"
+        }
+    }
+]
