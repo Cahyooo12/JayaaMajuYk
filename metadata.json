@@ -1,0 +1,7 @@
+{
+  "name": "Jaya Maju Yk - POS Specialist",
+  "description": "Premium Point of Sale (POS) hardware and software solutions provider in Yogyakarta. Featuring an interactive catalog, product comparison, and integrated WhatsApp checkout.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
